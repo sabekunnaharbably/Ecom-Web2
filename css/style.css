@@ -1,0 +1,1128 @@
+/* All Common CSS Start */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+.container {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* All Common CSS End */
+
+/* Header part start */
+#header_part {
+    width: 100%;
+
+    background: url(../images/Frame\ 25.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.logo_with_menu {
+    display: flex;
+}
+
+.menu ul {
+    display: flex;
+    line-height: 80px;
+}
+
+.menu ul li a {
+    padding-right: 15px;
+    margin-left: 80px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.logo_2nd {
+
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+
+.box_item {
+    position: relative;
+}
+
+.box_one {
+    width: 320px;
+    height: 300px;
+    background: #848689;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 95%;
+    margin-top: 20%;
+    transform: translateY(-50%);
+
+}
+
+.box_two {
+    width: 320px;
+    height: 300px;
+    background: #848689;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 33%;
+    transform: translateY(-50%);
+    ;
+
+}
+
+.logo_4th {
+    margin-left: -20%;
+    margin-top: 10px;
+}
+
+
+
+
+
+.logo_3rd {
+    margin-left: 0px;
+    margin-top: -220px;
+}
+
+
+
+
+
+.item_text h1 {
+    padding-top: 30px;
+    font-size: 72px;
+    font-weight: 800;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+    padding-right: 381px;
+
+}
+
+.item_text p {
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 888px;
+
+}
+
+.item_text a {
+    margin-top: 30px;
+    padding: 15px 30px;
+    border-radius: 50px;
+    background: #ec8a19;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+
+/* Header part End */
+
+
+
+/* Service part start */
+.logo {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.text_item {
+
+    margin-top: 20px;
+    position: relative;
+}
+
+.text_item h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+.text_item p {
+    padding-left: 40%;
+    position: absolute;
+    line-height: 40px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 458px;
+}
+
+.box_item {
+    margin-top: 10%;
+    display: flex;
+
+}
+
+.box_one_a {
+    width: 350px;
+    height: 375px;
+    background: #c0b7d7;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_one_b {
+    width: 350px;
+    height: 375px;
+    background: #d0bac2;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+
+.box_one_c {
+    width: 350px;
+    height: 375px;
+    background: #c5c7b2;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+
+.logo_5th {
+    padding-top: 20%;
+    padding-left: 45%;
+}
+
+.text_item_three {}
+
+.text_item_three h3 {
+    margin-top: 20px;
+    margin-left: 20%;
+
+
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+
+.text_item_three p {
+    margin-top: 20px;
+    margin-left: 20%;
+    padding-right: 55px;
+    line-height: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+
+}
+
+
+
+.logo_6th {
+    margin-top: 50px;
+    margin-left: 30%;
+
+}
+
+
+.logo_7th {
+    padding-top: 20%;
+    padding-left: 45%;
+}
+
+.text_item_four {}
+
+.text_item_four h3 {
+    margin-top: 20px;
+    margin-left: 20%;
+
+
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+
+.text_item_four p {
+    margin-top: 20px;
+    margin-left: 20%;
+    padding-right: 55px;
+    line-height: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+
+}
+
+
+
+.logo_8th {
+    margin-top: 50px;
+    margin-left: 30%;
+
+}
+
+
+
+.logo_9th {
+    padding-top: 20%;
+    padding-left: 45%;
+}
+
+.text_item_five {}
+
+.text_item_five h3 {
+    margin-top: 20px;
+    margin-left: 20%;
+
+
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+
+.text_item_five p {
+    margin-top: 20px;
+    margin-left: 20%;
+    padding-right: 55px;
+    line-height: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+
+}
+
+
+
+.logo_10th {
+    margin-top: 50px;
+    margin-left: 30%;
+
+}
+
+/* Service part End */
+
+/* Self_Part_Start */
+
+.container_three {
+    display: flex;
+}
+
+
+
+.box_item_two {
+    position: relative;
+}
+
+.box_two_a {
+
+    width: 320px;
+    height: 340px;
+    background: #848689;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 20%;
+
+}
+
+
+.box_two_b {
+
+    width: 250px;
+    height: 220px;
+    background: #848689;
+    border-radius: 30px;
+    position: absolute;
+
+    margin-top: 35%;
+
+}
+
+
+
+.logo_ten img {
+    margin-left: 55%;
+    margin-top: 20%;
+
+
+}
+
+.text_part h3 {
+    margin-left: 55%;
+    padding-top: 30px;
+    font-size: 72px;
+    font-weight: 800;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.text_part p {
+    margin-left: 55%;
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 197px;
+
+}
+
+.text_part h5 {
+    margin-left: 56%;
+    padding-top: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.logo_eleven {
+    margin-left: 55%;
+
+}
+
+.logo_twelve {
+    margin-left: 55%
+}
+
+.logo_thirteen img {
+
+    margin-left: 55%;
+    margin-top: 20%;
+
+}
+
+.text_item_six h3 {
+    margin-left: 43%;
+    padding-top: 30px;
+    font-size: 48px;
+    font-weight: 800;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+.text_item_part {
+    display: flex;
+}
+
+
+
+.text_item_part h5 {
+    padding-right: 30px;
+
+}
+
+.box_item_four {
+    display: flex;
+}
+
+.box_four_a {
+    margin-top: 40px;
+
+    width: 250px;
+    height: 370px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+
+.box_four_b {
+    margin-top: 40px;
+    margin-left: 5%;
+    width: 600px;
+    height: 370px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_four_c {
+    margin-top: 40px;
+    margin-left: 5%;
+    width: 250px;
+    height: 370px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+
+}
+
+.box_item_five {
+    display: flex;
+}
+
+.box_five_a {
+    margin-top: 35px;
+
+    width: 380px;
+    height: 460px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+
+.box_five_b {
+    margin-top: 40px;
+    margin-left: 10%;
+    width: 300px;
+    height: 460px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_five_c {
+    margin-top: 35px;
+    margin-left: 15%;
+    width: 340px;
+    height: 460px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+/* Self_Part_End */
+
+
+/* Creative_Part_Start */
+
+.logo_fourteen img {
+
+    margin-left: 55%;
+    margin-top: 20%;
+}
+
+.text_item_seven h3 {
+    margin-left: 43%;
+    padding-top: 30px;
+    font-size: 48px;
+    font-weight: 800;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+.text_item_seven p {
+    margin-left: 47%;
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 254px;
+
+}
+
+.box_six_a {
+    display: flex;
+
+}
+
+
+.box_six_a_one {
+    margin-left: 50px;
+    margin-top: 5%;
+    width: 500px;
+    height: 250px;
+    background: #c0b7d7;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_six_a_two {
+    margin-top: 25px;
+    margin-left: 12%;
+    width: 600px;
+    height: 350px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+
+.box_six_b {
+    display: flex;
+
+}
+
+.box_six_b_one {
+    margin-top: 25px;
+    margin-left: 2%;
+    width: 600px;
+    height: 350px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_six_b_two {
+    margin-left: 100px;
+    margin-top: 5%;
+    width: 500px;
+    height: 250px;
+    background: #c0b7d7;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_six_c {
+    display: flex;
+
+}
+
+
+.box_six_c_one {
+    margin-left: 50px;
+    margin-top: 5%;
+    width: 500px;
+    height: 250px;
+    background: #c0b7d7;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.box_six_c_two {
+    margin-top: 25px;
+    margin-left: 12%;
+    width: 600px;
+    height: 350px;
+    background: #848689;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.logo_fifteen img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+
+.text_item_eight h3 {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+
+}
+
+.text_item_eight p {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    padding-right: 141px;
+
+}
+
+.logo_sixteen img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+
+.text_item_nine h3 {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+
+}
+
+.text_item_nine p {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    padding-right: 141px;
+
+}
+
+
+
+.text_item_ten h3 {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+
+}
+
+.text_item_ten p {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    padding-right: 141px;
+
+}
+
+/* Creative_Part_ End */
+
+
+
+/* Client part start */
+
+.logo_item_eirgteen {
+    margin-top: 250px;
+    margin-left: 30px;
+}
+
+.logo_seventeen img {
+    margin-top: 250px;
+
+
+}
+
+.text_part_eleven h3 {
+    margin-top: 20px;
+    margin-left: 0px;
+    font-size: 48px;
+    font-weight: 800;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.text_part_eleven p {
+
+
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 1015px;
+
+
+
+}
+
+.logo-eighteen {
+    margin-top: 20px;
+}
+
+
+
+
+.box_item_eight {
+    display: flex;
+    position: relative;
+}
+
+
+.box_item_eight_a {}
+
+
+.box_item_eight_b {
+    width: 300px;
+    height: 330px;
+    background: #c0b7d7;
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-top: 250px;
+    position: absolute;
+
+}
+
+.box_item_eight_c {
+
+    width: 300px;
+    height: 330px;
+    background: #fff;
+    border-radius: 20px;
+    margin-left: 75%;
+    margin-top: 250px;
+    position: absolute;
+
+
+}
+
+.text p {
+    margin-top: 20px;
+    margin-left: 40px;
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 15px;
+
+}
+
+.logo_nineteen img {
+    padding-right: 10px;
+    position: absolute;
+}
+
+.text_one p {
+    margin-top: 20px;
+    margin-left: 40px;
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Paprika", system-ui;
+    padding-right: 15px;
+
+
+}
+
+.logo_twenty img {
+    padding-right: 10px;
+    position: absolute;
+}
+
+/* Client part End */
+
+
+/* blog part start */
+
+
+
+.logo_item_twentyone {
+    /* margin-top: 250px;
+    margin-left: 45%; */
+}
+
+.logo_item_twentyone img {
+    margin-top: 250px;
+    margin-left: 45%;
+}
+
+.text_item_fourteen h3 {
+
+    margin-top: 20px;
+    margin-left: 40%;
+    font-size: 48px;
+    font-weight: 800;
+    color: #000;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.text_item_fourteen p {
+
+    margin-top: 20px;
+    margin-left: 40%;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    padding-right: 362px;
+
+}
+
+.box_item_nine {
+    display: flex;
+}
+
+.box_item_nine_a {
+    margin-top: 80px;
+    width: 370px;
+    height: 241px;
+    background: #848689;
+
+}
+
+.blog_text_part {
+    /* padding: 55px; */
+    background: #fff;
+    width: 370px;
+    height: 261px;
+    margin-top: 241px;
+
+
+}
+
+
+.blog_text_part p {
+    padding-right: 109px;
+    padding-top: 20px;
+    margin-left: 8%;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.blog_text_part h5 {
+
+    padding-top: 20px;
+    margin-left: 8%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Nunito", sans-serif;
+
+}
+
+.logo_twentytwo img {
+    margin-top: 60px;
+    margin-left: 8%;
+}
+
+
+
+
+
+.box_item_nine_b {
+    margin-left: 80px;
+    margin-top: 80px;
+    width: 370px;
+    height: 241px;
+    background: #848689;
+
+}
+
+.blog_text_part_one {
+
+    background: #fff;
+    width: 370px;
+    height: 261px;
+    margin-top: 241px;
+
+
+}
+
+
+.blog_text_part_one p {
+    padding-right: 109px;
+    padding-top: 20px;
+    margin-left: 8%;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.blog_text_part_one h5 {
+
+    padding-top: 20px;
+    margin-left: 8%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Nunito", sans-serif;
+
+}
+
+.logo_twentythree img {
+    margin-top: 60px;
+    margin-left: 8%;
+}
+
+
+
+
+
+.box_item_nine_c {
+    margin-left: 80px;
+    margin-top: 80px;
+    width: 370px;
+    height: 241px;
+    background: #848689;
+
+}
+
+.blog_text_part_two {
+
+    background: #fff;
+    width: 370px;
+    height: 261px;
+    margin-top: 241px;
+
+
+}
+
+
+.blog_text_part_two p {
+    padding-right: 109px;
+    padding-top: 20px;
+    margin-left: 8%;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.blog_text_part_two h5 {
+
+    padding-top: 20px;
+    margin-left: 8%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Nunito", sans-serif;
+
+}
+
+.logo_twentyfour img {
+    margin-top: 60px;
+    margin-left: 8%;
+}
+
+/* blog part End */
+
+
+/* Last part start */
+
+#Last_Part {
+    margin-top: 20%;
+}
+
+.text_fifteen p {
+    margin-top: 3%;
+    padding-right: 870px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Nunito", sans-serif;
+
+}
+
+.footer_top {
+    margin: auto;
+
+
+}
+
+.footer_right{
+    display: flex;
+}
+
+
+
+.footer_one {
+    width: 102px;
+    margin-left: 530px;
+    margin-right: auto;
+    margin-top: 0;
+
+}
+
+.footer_two {
+    width: 167px;
+    margin-left: 790px;
+    margin-right: auto;
+
+}
+
+.footer_three {
+    width: 160px;
+    margin-left: 1070px;
+    margin-right: auto;
+}
+
+.footer_bottom {
+    display: flex;
+}
+
+.bottom_right {
+    display: flex;
+
+}
+
+.footer_bottom p {
+    margin-top: 10%;
+}
+
+.bottom_right {
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.bottom_right li a {
+
+    margin-top: 10%;
+}
+
+.term li a {
+    width: 159px;
+    margin-left: 100%;
+
+}
+
+
+
+
+
+/* Last part End */
+
+
+
+
+
+
+
+
+
+
+/* Header part start */
+/* Header part End */

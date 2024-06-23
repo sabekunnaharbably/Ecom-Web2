@@ -1,0 +1,5 @@
+  font-family: "Open Sans", sans-serif;
+    font-family: "Paprika", system-ui;
+ font-family: "Roboto", sans-serif;
+  font-family: "Work Sans", sans-serif;
+    font-family: "Nunito", sans-serif;
